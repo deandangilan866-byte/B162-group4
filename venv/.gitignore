@@ -1,0 +1,4 @@
+__pycache__/
+.env
+credentials/service-account.json
+*.pyc
