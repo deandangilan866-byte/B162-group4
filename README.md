@@ -81,9 +81,9 @@ README.md
 
 ## 1 Clone the Repository
 
-git clone https://github.com/yourrepository/google-adexchange-fastapi
+git clone https://github.com/deandangilan866-byte/group 4 B162
 
-cd google-adexchange-fastapi
+cd group 4 B162
 
 ---
 
