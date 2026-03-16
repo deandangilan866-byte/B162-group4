@@ -81,7 +81,7 @@ README.md
 
 ## 1 Clone the Repository
 
-git clone https://github.com/deandangilan866-byte/group 4 B162
+git clone https://github.com/deandangilan866-byte/B162-group4
 
 cd group 4 B162
 
